@@ -1,0 +1,16 @@
+{
+  "name": "updated-odin-project-todo-list",
+  "version": "1.0.0",
+  "description": "An updated and working version of the odin project todo list. Build using JavaScript, Webpack, and localStorage.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
+  }
+}
